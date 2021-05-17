@@ -1,0 +1,1 @@
+Hey I read the file from the directory
