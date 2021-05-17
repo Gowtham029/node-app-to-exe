@@ -1,0 +1,19 @@
+{
+    "name": "exec",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node .",
+        "build": "nexe --resource \" ./files/**/* \" "
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nexe": "^4.0.0-beta.18"
+    }
+}
